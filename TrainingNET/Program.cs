@@ -23,7 +23,23 @@ var student3 = new Student
 {
     Id = 3,
     Name = "Tie Antono",
-    Age = 50,
+    Age = 1000,
+    SubjectId = 2,
+};
+
+var student10 = new Student
+{
+    Id = 3,
+    Name = "Tie Antono",
+    Age = 1000,
+    SubjectId = 2,
+};
+
+var student11 = new Student
+{
+    Id = 3,
+    Name = "Tie Antono",
+    Age = 1000,
     SubjectId = 2,
 };
 
@@ -160,3 +176,5 @@ foreach (var student in studentStack)
 
 Console.ReadKey();
 
+Console.WriteLine("Halo Andrew");
+Console.WriteLine("Ganti Lagi nih");
