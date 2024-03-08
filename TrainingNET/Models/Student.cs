@@ -15,7 +15,7 @@ namespace TrainingNET.Models
 
         public Student()
         {
-            //Changes
+            //Changes [Robertus] - [Trainee]
         }
 
         public string ConcanateIdName()
