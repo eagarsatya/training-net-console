@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// test buat pull request
+
+// test buat conflict
+
 using TrainingNET.Models;
 
 var listStudents = new List<Student>();
