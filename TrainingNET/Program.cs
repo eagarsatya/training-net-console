@@ -27,6 +27,14 @@ var student3 = new Student
     SubjectId = 2,
 };
 
+var student10 = new Student
+{
+    Id = 3,
+    Name = "Tie Antono",
+    Age = 1000,
+    SubjectId = 2,
+};
+
 var student4 = new Student();
 
 listStudents.Add(student1);
