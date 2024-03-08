@@ -27,6 +27,16 @@ var student3 = new Student
     SubjectId = 2,
 };
 
+var student5 = new Student
+{
+    Id = 10,
+    Name = "Eyzar",
+    Age = 20,
+    SubjectId = 4,
+};
+
+listStudents.Add(student5);
+
 var student4 = new Student();
 
 listStudents.Add(student1);
@@ -74,7 +84,13 @@ var netSubject = new Subject
     Id = 3,
     Name = ".NET Subject"
 };
+var genshinSubject = new Subject
+{
+    Id = 4,
+    Name = "Genshin Impactology"
+};
 
+listSubject.Add(genshinSubject);
 listSubject.Add(mathSubject);
 listSubject.Add(csSubject);
 listSubject.Add(netSubject);
@@ -148,9 +164,13 @@ Stack<Student> studentStack = new Stack<Student>();
 studentStack.Push(student1);
 studentStack.Push(student2);
 studentStack.Push(student3);
+studentStack.Push(student5);
 
+Stack<Subject> subjectStack = new Stack<Subject>();
+subjectStack.Push(netSubject);
+subjectStack.Push(genshinSubject);
 
-Console.WriteLine($"Peek : {studentStack.Peek().Id} - {studentStack.Peek().Name}");
+Console.WriteLine($"Peek : {subjectStack.Peek().Id} - {subjectStack.Peek().Name}");
 
 foreach (var student in studentStack)
 {
