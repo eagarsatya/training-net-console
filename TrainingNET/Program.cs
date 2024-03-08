@@ -158,6 +158,5 @@ foreach (var student in studentStack)
 }
 
 //Bye bye!
-Console.WriteLine("BYE BYE");
 Console.ReadKey();
 
