@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// test buat commmit
+// test buat pull request
 
 using TrainingNET.Models;
 
