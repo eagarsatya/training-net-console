@@ -15,7 +15,7 @@ namespace TrainingNET.Models
 
         public Student()
         {
-
+            // Halo
         }
 
         public string ConcanateIdName()
