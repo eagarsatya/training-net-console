@@ -24,7 +24,7 @@ var student3 = new Student
 {
     Id = 3,
     Name = "Tie Antono",
-    Age = 50,
+    Age = 100,
     SubjectId = 2,
 };
 
