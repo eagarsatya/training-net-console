@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// ini commit dari benjamin
 using TrainingNET.Models;
 
 var listStudents = new List<Student>();
