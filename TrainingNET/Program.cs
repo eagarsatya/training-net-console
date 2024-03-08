@@ -1,5 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// ini commit dari benjamin
+
+//dadwdawd
+// test2
+
 using TrainingNET.Models;
 
 var listStudents = new List<Student>();
@@ -10,6 +15,8 @@ var student1 = new Student
     Age = 30,
     SubjectId = 3,
 };
+
+//testAxel
 
 var student2 = new Student
 {
