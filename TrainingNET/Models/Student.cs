@@ -15,6 +15,12 @@ namespace TrainingNET.Models
 
         public Student()
         {
+
+            //Changes [Robertus] - [Trainee]
+            //aksdmkamdnaksmkfmaksmdfa
+            //akolmdaskmdakfma////
+            //asldmaskfmaskmsafmaskfmas hai
+            //kasmdkamdkam
             //Changes
             //Ini udah benar
             //Ini gua unsure
