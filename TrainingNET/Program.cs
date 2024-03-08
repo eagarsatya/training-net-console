@@ -2,6 +2,8 @@
 
 using TrainingNET.Models;
 
+//Buat Commit
+
 var listStudents = new List<Student>();
 var student1 = new Student
 {
