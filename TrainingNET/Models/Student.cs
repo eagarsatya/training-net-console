@@ -18,6 +18,8 @@ namespace TrainingNET.Models
             //Changes
             //Ini udah benar
             //Ini gua unsure
+
+            //Belajar merging
         }
 
         public string ConcanateIdName()
