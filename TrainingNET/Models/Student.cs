@@ -21,6 +21,7 @@ namespace TrainingNET.Models
 
             //Belajar merging
             //Tolong jangan di merge
+            //Tolong jangan di merge
         }
 
         public string ConcanateIdName()
