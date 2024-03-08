@@ -16,6 +16,10 @@ namespace TrainingNET.Models
         public Student()
         {
             //Changes
+            //Ini udah benar
+            //Ini gua unsure
+
+            //Belajar merging
         }
 
         public string ConcanateIdName()
