@@ -8,7 +8,7 @@ var student1 = new Student
     Id = 1,
     Name = "Eagar Satya",
     Age = 30,
-    SubjectId = 3,
+    SubjectId = 10,
 };
 
 var student2 = new Student

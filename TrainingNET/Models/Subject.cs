@@ -8,6 +8,7 @@ namespace TrainingNET.Models
 {
     internal class Subject
     {
+        //change commit1
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
     }
