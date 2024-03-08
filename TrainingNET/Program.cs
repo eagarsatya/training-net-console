@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// test buat commmit
+
 using TrainingNET.Models;
 
 var listStudents = new List<Student>();
