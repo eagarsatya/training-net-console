@@ -75,9 +75,19 @@ var netSubject = new Subject
     Name = ".NET Subject"
 };
 
+var gitSubject = new Subject  
+{
+    Id = 4,
+    Name = "GIT Subject"
+};
+
+//ini berubah
+
 listSubject.Add(mathSubject);
 listSubject.Add(csSubject);
 listSubject.Add(netSubject);
+
+//ini trst
 
 //Console.WriteLine("Please input student's name : ");
 //student4.Name = Console.ReadLine();
