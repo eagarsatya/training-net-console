@@ -75,7 +75,7 @@ var netSubject = new Subject
     Name = ".NET Subject"
 };
 
-var netSubject = new Subject
+var gitSubject = new Subject
 {
     Id = 4,
     Name = "GIT Subject"
