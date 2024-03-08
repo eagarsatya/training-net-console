@@ -161,3 +161,4 @@ foreach (var student in studentStack)
 Console.ReadKey();
 
 Console.WriteLine("Halo Andrew");
+Console.WriteLine("Ganti Lagi nih");
