@@ -15,9 +15,10 @@ var student2 = new Student
 {
     Id = 2,
     Name = "Roberto Wu",
-    Age = 40,
+    Age = 50,
     SubjectId = 1,
 };
+
 
 
 
@@ -25,9 +26,11 @@ var student3 = new Student
 {
     Id = 3,
     Name = "Tie Antono",
-    Age = 50,
+    Age = 27,
     SubjectId = 2,
 };
+
+
 
 var student4 = new Student();
 
