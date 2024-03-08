@@ -17,6 +17,7 @@ namespace TrainingNET.Models
         {
             //Changes
             //Ini udah benar
+            //Ini gua unsure
         }
 
         public string ConcanateIdName()
